@@ -7,6 +7,13 @@ export const data = [
         imagePath:'images/davidLiang.jpg'
     },
     {
+        firstName:'Teke',
+        lastName:'Byas',
+        location: 'Rancho Cucamonga, CA',
+        html:'tekeByas.html',
+        imagePath:'images/tekeByas.jpg'
+     },{  
+
         firstName:'Bonnie',
         lastName:'Lee',
         location: 'Fontana, CA',
