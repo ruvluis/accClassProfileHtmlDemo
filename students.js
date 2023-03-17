@@ -7,7 +7,15 @@ export const data = [
         imagePath:'images/davidLiang.jpg'
     },
     {
-        firstName:'Michael',
+
+        firstName:'Marlon',
+        lastName:'Dowdell',
+        location: 'Riverside CA',
+        html:'marlondowdell.html',
+        imagePath:'images/marlondowdell.jpg'
+    },
+    {
+        firstName:'Mich',
         lastName:'Jimenez',
         location: 'Redlands CA',
         html:'michaelJimenez.html',
