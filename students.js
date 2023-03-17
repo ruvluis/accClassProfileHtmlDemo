@@ -10,8 +10,8 @@ export const data = [
         firstName:Luis',
         lastName:'Ruvalcaba',
         location: 'Rialto,CA',
-        html:'luisruv.html',
-        imagePath:'images/luisruv.jpg'
+        html:'luisRuv.html',
+        imagePath:'images/luisRuv.jpg'
     },
 ]
 
