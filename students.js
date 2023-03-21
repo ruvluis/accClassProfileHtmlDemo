@@ -12,7 +12,20 @@ export const data = [
         location: 'California, CA',
         html:'tamariTinsley.html',
         imagePath:'images/tamariTinsley.jpg'
+    },
+    {
+        firstName:'Iwona',
+        lastName:'LaFave',
+        location: 'Redlands, Ca',
+        html:'iwonaLafave.html',
+        imagePath:'images/iwonaLafave.jpg'
 
+    },{
+        firstName:'Jerry',
+        lastName:'Parker',
+        location: 'Ontario, CA',
+        html:'jerryParker.html',
+        imagePath:'images/jerryParker.jpg'
     },{
         firstName:'Woranan',
         lastName:'Hernandez',
@@ -37,6 +50,7 @@ export const data = [
         location: 'Fontana, CA',
         html:'bonnieLee.html',
         imagePath:'images/bonnieLee.jpg'
+
     },
 ]
 
