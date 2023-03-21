@@ -6,6 +6,12 @@ export const data = [
         html:'davidLiang.html',
         imagePath:'images/davidLiang.jpg'
     },{
+        firstName:'Jerry',
+        lastName:'Parker',
+        location: 'Ontario, CA',
+        html:'jerryParker.html',
+        imagePath:'images/jerryParker.jpg'
+    },{
         firstName:'Woranan',
         lastName:'Hernandez',
         location: 'California, CA',
