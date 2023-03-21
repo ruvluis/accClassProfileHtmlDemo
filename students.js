@@ -12,7 +12,13 @@ export const data = [
         location: 'San Jacinto, CA',
         html:'nathanSobarnia.html',
         imagePath:'images/nathanSobarnia.jpg'
-
+    },
+    {
+        firstName:'Tamari',
+        lastName:'Tinsley',
+        location: 'California, CA',
+        html:'tamariTinsley.html',
+        imagePath:'images/tamariTinsley.jpg'
     },
     {
         firstName:'Iwona',
