@@ -21,6 +21,12 @@ export const data = [
         imagePath:'images/nathanSobarnia.jpg'
     },
     {
+        firstName:'Alireza',
+        lastName:'Soloukdar',
+        location: 'California, CA',
+        html:'alirezaSoloukdar.html',
+        imagePath:'images/alirezaSoloukdar.jpg'
+     }  
         firstName:'Tamari',
         lastName:'Tinsley',
         location: 'California, CA',
@@ -64,7 +70,6 @@ export const data = [
         location: 'Fontana, CA',
         html:'bonnieLee.html',
         imagePath:'images/bonnieLee.jpg'
-
     },
 
 ]
